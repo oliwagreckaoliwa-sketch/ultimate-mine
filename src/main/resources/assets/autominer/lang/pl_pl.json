@@ -1,0 +1,11 @@
+{
+  "category.autominer": "AutoMiner Ultimate",
+  "key.autominer.add_block": "Dodaj wskazywany blok (Shift = usuń)",
+  "key.autominer.toggle_miner": "Włącz / wyłącz Auto Miner",
+  "key.autominer.toggle_deposit": "Włącz / wyłącz Auto Deposit",
+  "key.autominer.toggle_hud": "Pokaż / ukryj HUD",
+  "key.autominer.open_gui": "Otwórz menu AutoMiner",
+  "key.autominer.pause_miner": "Pauza / wznowienie Auto Miner",
+  "key.autominer.select_chest": "Wybierz skrzynię depozytu (patrz na nią)",
+  "key.autominer.deposit_now": "Depozytuj teraz"
+}
